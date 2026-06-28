@@ -16,7 +16,7 @@ export default function Home() {
     <main className="home">
       <header className="home-header">
         <h1 className="home-title">Clayton Whitten</h1>
-        <p className="home-tagline">games, tools, and other stuff</p>
+        <p className="home-tagline">a collection of things</p>
       </header>
 
       <section className="home-grid">
